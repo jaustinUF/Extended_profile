@@ -1,4 +1,4 @@
-# Extended-Profile
+# Extended profile
 Web Scraping
   - Pararius: https://www.youtube.com/playlist?list=PLYNEIMg6-4sZS3FkUJuqRrzT9Uccbsyyv
   - John Watson Rooney: https://www.youtube.com/@JohnWatsonRooney
